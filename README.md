@@ -1,5 +1,7 @@
 ## Hi there 👋
+Hi, I'm Nwobodo Kenneth! I’m a software engineer focused on harnessing technology to make significant impacts in the tech industry and beyond.
 
+<h1>About me</h1>
 <!--
 **nwobodokenneth/nwobodokenneth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
