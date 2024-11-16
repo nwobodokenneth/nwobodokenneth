@@ -6,7 +6,7 @@ I bring a unique combination of discipline, strategic vision, and technical prow
 
 <h2>Technical Skills</h1>
   <div>Languages: JavaScript, TypeScript </div>
-  <div>Frameworks & Libraries: React, Next.js, Node.js</div>
+  <div>Frameworks & Libraries: React, Next.js, Vue, Node.js</div>
   <div>Tools & Platforms: GitHub, Docker, Azure, Vercel, Cloudinary, OpenAI</div>
 
 
