@@ -5,9 +5,9 @@ Hi, I'm Nwobodo Kenneth! I’m a software engineer focused on harnessing technol
 I bring a unique combination of discipline, strategic vision, and technical prowess to the programming world. My passion lies in developing software solutions that solve problems, create opportunities, and derive value for my company.
 
 <h2>Technical Skills</h1>
-  <ol> Languages: JavaScript, Python, TypeScript </ol>
-  <ol> Frameworks & Libraries: React, Next.js, Node.js</ol>
-  <ol> Tools & Platforms: GitHub, Docker, Azure, Vercel, Cloudinary, OpenAI</ol>
+  <div> <h3>Languages:</h3> JavaScript, Python, TypeScript </div>
+  <div> Frameworks & Libraries: React, Next.js, Node.js</div>
+  <div> Tools & Platforms: GitHub, Docker, Azure, Vercel, Cloudinary, OpenAI</div>
 
 
 <!--
